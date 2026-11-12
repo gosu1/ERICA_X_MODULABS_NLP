@@ -1,0 +1,92 @@
+{
+ "d283072cefee72af3daeb8738f34fd46628bcc2535934a03073add14b89d2aa5": {
+  "via": "claude-code-cli",
+  "sentences": [
+   {
+    "text": "2026년 10월 3일에 처음으로 5km를 쉬지 않고 달렸다.",
+    "record_ids": [
+     "r1"
+    ]
+   },
+   {
+    "text": "2026년 10월 9일에 러닝화를 새로 샀다.",
+    "record_ids": [
+     "r2"
+    ]
+   },
+   {
+    "text": "2026년 10월 17일에는 무릎이 아파 거리를 3km로 줄였다.",
+    "record_ids": [
+     "r3"
+    ]
+   },
+   {
+    "text": "2026년 10월 24일에 주 3회 달리기로 정했다.",
+    "record_ids": [
+     "r4"
+    ]
+   }
+  ],
+  "input_tokens": 1445,
+  "output_tokens": 529,
+  "fallback": "SDK 호출 실패 400: Your credit balance is too low to access the ... → CLI 로 바꿈"
+ },
+ "4b1519852ba98bd8b78e58c9160ef1dddb7acf8f5fd7a112558ac0dc27f99018": {
+  "via": "claude-code-cli",
+  "sentences": [
+   {
+    "text": "2026년 9월 28일에 지원 동기를 500자로 줄였다.",
+    "record_ids": [
+     "r1"
+    ]
+   },
+   {
+    "text": "2026년 10월 5일에 동아리 경험을 첫 문단에 넣었다.",
+    "record_ids": [
+     "r2"
+    ]
+   },
+   {
+    "text": "2026년 10월 20일에 첨삭을 받고 성장 과정을 다시 썼다.",
+    "record_ids": [
+     "r3"
+    ]
+   }
+  ],
+  "input_tokens": 1424,
+  "output_tokens": 428,
+  "fallback": "SDK 호출 실패 400: Your credit balance is too low to access the ... → CLI 로 바꿈"
+ },
+ "77544bec241e3b235ecaa58c969551c5f4145273d2c9931c897580b2a014475b": {
+  "via": "claude-code-cli",
+  "sentences": [
+   {
+    "text": "2026년 9월 20일에 백준 실버 문제를 하루 두 개씩 풀기로 했다.",
+    "record_ids": [
+     "r1"
+    ]
+   },
+   {
+    "text": "2026년 10월 2일 모의 시험에서 시간 초과가 두 번 발생했다.",
+    "record_ids": [
+     "r2"
+    ]
+   },
+   {
+    "text": "2026년 10월 11일에 확인한 카카오 1번은 문자열 처리 문제였다.",
+    "record_ids": [
+     "r3"
+    ]
+   },
+   {
+    "text": "2026년 10월 15일에 그리디 문제를 다시 풀었다.",
+    "record_ids": [
+     "r4"
+    ]
+   }
+  ],
+  "input_tokens": 1459,
+  "output_tokens": 543,
+  "fallback": "SDK 호출 실패 400: Your credit balance is too low to access the ... → CLI 로 바꿈"
+ }
+}
